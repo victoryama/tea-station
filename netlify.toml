@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/tea_station.HTML"
+status = 200
